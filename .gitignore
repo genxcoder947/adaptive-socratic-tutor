@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+runtime-tmp/
+tmp/
+.session-secret
+tutor.sqlite3
+*.sqlite3
+.env
+output/
