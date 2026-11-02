@@ -1,9 +1,12 @@
+.env
+.env.*
+!.env.example
 .venv/
 __pycache__/
-runtime-tmp/
-tmp/
+*.py[cod]
 .session-secret
 tutor.sqlite3
-*.sqlite3
-.env
+tutor.sqlite3-*
+runtime-tmp/
+tmp/
 output/
